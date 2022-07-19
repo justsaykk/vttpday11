@@ -1,9 +1,9 @@
 # Day 11 Notes
 
 ### CLI commands for springboot
-1. To complile: ./mvnw package <br/>
-2. To run: ./mvnw spring-boot:run <br/>
-3. To run with args: ./mvn spring-boot:run -Dspring-boot.run.arguments=“--port=3000 <space>--logLevel=TRACE” <br/>
+1. To complile: `./mvnw package` <br/>
+2. To run: `./mvnw spring-boot:run` <br/>
+3. To run with args: `./mvn spring-boot:run -Dspring-boot.run.arguments=“--port=3000 --logLevel=TRACE”` <br/>
 
 ### How to update a git branch
 
