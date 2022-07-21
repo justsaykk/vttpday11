@@ -14,6 +14,8 @@
 3. Push the updates to remote repo: `git push -u origin <branchname>` <br/>
 
 ### How to deploy to Heroku
+*Prerequisites:* There needs to be a system.properties file in the root with property: <br/>
+`java.runtime.version=18` (or whatever version you're using)<br/>
 
 1. Install Heroku CLI (google it!) <br/>
 2. Go to branch that needs deployment using: `git checkout <branchname>` <br/>
